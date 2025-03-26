@@ -1,0 +1,721 @@
+
+--- Page 1 ---
+Tioa-10023-10087 |
+My iN 1 ‘ ‘ : . -. "
+- pO. NOT REPRODUCE
+_ CHAPTER II - lage
+15 November 1974 . [4
+& Res
+Bac, Uni, - eee
+. ANNEX B > Oo Hou, Pre) Qe eae
+se ° Moy bo Us, © ee Se
+oe Sor O , ee
+| _ THE 201 SYSTEM - Cte Beas .
+Rescission: Annex B of Chapter III, CSHB 70-1-I, 27 October 1966 ee
+1. INTRODUCTION | . si
+_ The 201 system provides a method for identifying a person of specific in- wees eet
+terest to the Operations Directorate and for controlling and filing all pertinent eae
+information about that person. The system also provides a means for identifying ° Rea 4
+subjects of 201 files from various categories of information about them and for . Spica erate
+. ee oge . . ria retes Bod
+producing lisits of 201 personalities according to those categories. Only a rela- . NS a pe
+tively small number of personalities indexed are of sufficient interest to justify eres
+opening a 201 dossier. These are normally subjects of extensive reporting and oi oar en
+CI investigation, prospective agents and sources, members of groups and organi- eae
+zations of continuing target interest, or subjects on whom a volume of corre- Beas
+spondence has accumulated. _ fe Se
+2, THE 201 SYSTEM | eee
+The principal features of the 201 system are: - Do, . ; , Boe
+a. The 201 Number: a unique number, i.e., 201-1234567, assigned to each we ess
+_individual in the system to serve as identifying file number for reporting on that _ ee
+' . -b, The 201 Dossier: the official file containing the 201 opening form (Form =< | Be So
+, 831) and all biographic reporting on and references to the individual, ie, per- ~~ -- | . pie .
+sonal history, current status, and prospects, = 4 ew re Ee et , ;
+" “ -.* @ The Master 201 Record: 4 niachine record genérated by:the opening of =~" - 00.2 s+ Pe ae
+a 201 file. This record produces the master 201 reference for the-Main Index and © ~~ =>. Bae
+stores the pertinent information which may later be retrieved! for special listings. - Eee
+d. Main Index Master 201 Reference: this reference, printed in reply to an ; er ee
+_ Index Search Request, is printed as illustrated below. When data are absent _ ees
+within the record, succeeding data items or lines will be moved up and the ref- | ee 5 8
+erence consolidated... © = = ts pe el
+: le 0 OUTEISUSESES 0 TBR OE Sg RRR aie eee
+: Ge ae
+. a &
+
+--- Page 2 ---
+14-00000
+. ‘ by ’ .
+er RE SET A EE z
+; DOHB 70-1-1 is
+CHAPTER Ill, ANNEX B 3%
+15 November 1974 H |
+LIAM PENDLETOH 201-0032671* —(@) : :& ;
+Ou SEX M'DOB 12 APR 26, 2, GERM, BERLINCS) TYPE MAME 1 ) 3 a '
+Cie GERM OCC PHARMACE © Of COOES AA x5 1e
+Gd crer AAcb-12348, 20 JUN $3 OCC CODE CHE RCO DATE $3 +B oe !
+oore RECENTLY ATTENDEO THE SEVENTEENTH ANNUAL m7) 3B :
+CONFERENCE OF THE INTERNATIONAL ASSOCIATION OF CHEMISTS 2m :
+‘AND PHARMACISTS HELO IN MUNICH, GERMANY FROM 22 THROUGH. ont -. $¢% i
+29 OCTOBER. : Ia :
+30 NOV 70 00833555 a ;
+3 i
+43 .
+Information Adout Subject ; ‘
+; . . 44 i
+1, Sequence Number and Name . - og
+. 2. Sex and Date of Birth _. - wee wet +- _ - ij
+4. Place of Birth ul ‘
+: 5. Occupation 3% :
+6. Occupation Code 2 4 : ;
+Document Reference Data Group ; . . . i ae ,
+- 8. 201 Number a met at rr
+7 9. Name Type Indicator . a a : -- . mee — ~ it ee
+'. . UL. Record Date (year only) Pew e E ce : - oe .
+5 ISG Control Information - : ae : ~* ; 4 TTT.
+. 13, Date of latest update of the record ae Soe : To ws ; .
+: 14. STAR Index Record Number |
+me eee ceidite Meet pee Tet gaia atic] 0 Ua. SERINE i Ae eB
+Be [Lae 1 OI a a 2 oe
+7 . SECRET | :
+
+--- Page 3 ---
+14-00000 ,
+: DOHB 70-1-1 ; pon
+15 November 1974 we
+e. OI Code: a two letter symbol used in conjunction with the 201 /per- | Ree
+sonality records in the 201 system to record the association of an individual (ae
+with organizations or activities of operational interest. OI codes cover intelli- Rerree
+gence and security service affiliation, whether staff or agent, or known or ened
+suspect, as well as activities of DDO interest. There are two categories of OI . Bees
+codes for use by components: _. Lo : Bees
+7 (1) general OI codes (Attachment 4) . , ; os See
+(2) OI codes assigned to a specific component for intelligence services See
+or other specific organizations. , a an FB see
+, A component may request an OI code be established by submitting a mem- SS
+orandum to the DDO/RMO through the component Records Management : ita
+A 201 personality may be assigned two OI codes. An OI code may be assigned __ eee
+‘when the 201 Personality File Action Request (Form 831) is initiated (see ; ae
+paragraph 3b below) by filling in Box 13 or a code may be assigned or added ees
+at a later date by a Form 831 amendment. . | Sepa
+The 201 system has the capability of producing machine listings of 201 . | ieee
+personalities by OI codes. For example, if an OI code has been opened for the So Ba
+security service of a certain country a listing may be compiled of all members ‘ me aes
+of that service. . | eeenen
+f. 201 Machine Lists: produced from the mechanized 201 Index, based on . eae:
+names or other identifying information of personalities on whom 201 dossiers ee
+3. OPENING A 201 DOSSIER . ' eee
+a. General . ae pees
+, _ The opening of a 201 dossier is the -prerogative: of an Operational com- SC ‘eee
+ponent, in coordination with the Information Services Group. An opening creates |Sareees ,
+a master 201 record. Changes to the master record and the occasional -closing. — . eens .
+_ of 6 201 dossier are controlled jointly by the desks and JSG. 201 dossiers may be epee foals ee
++“ opened on persons who meet the carding criteria described in Chapter If of this’. 5 = => 0. 7) ipfeaae
+handbook, when there is a reasonable expectation that additional information = . > —| pees
+will be acquired and filed in such a dossier. Generally dossiers are opened on foe hee
+persons about whom counterintelligence information is being reported, and per- ‘ oO ae
+sons of operational interest to the Operations Directorate, specifically those § lol. ol eee
+persons for whom provisional operational. approvals and operational approvals). . .. = | ‘SRaieaaam
+are requested (see exception below). 201 files are not to be opened on staff} | ad
+A employees, staff agents and most categories of contract employees. Files on= - ~*~ - > ---- \ceeee
+a Lo Te 8 REO ee i aE
+SECRET 1 cea
+
+--- Page 4 ---
+14-00000 .
+oo oo DOHB 70-1-1 -4 :
+sO -CHAPTER Ill, ANNEX B ae |
+ne 15 November 1974 au
+) persons who are only of local interest to a field station or Headquarters desk | z g
+and on whom no DDO records correspondence exists are not a part of the DDO Br
+records systém and are to be maintained by that unit. Some desks levy require- i : =
+ments.on ISG for automatic 201 openings 6n certain categories of persons whose - Ze .
+names appear in incoming dispatches. These’ are listed in Attachment 2. 201 ' Se
+dossiers should be opened in the following categories: . re ‘Se
+, (1) Subjects of provisional operational approval and operational ap- : A
+proval requests. However, a file need not be opened when a POA is requested et |
+for persons being trained for a foreign liaison service and who are of opera- 3H
+tional interest for training purposes only. ; 7 so ie zZ
+(2) Persons for whom the field requests a 201 opening. ) x :
+O et $8
+: (3) [MHFIXTURE| personalities: bonafide diplomats of other than $e
+denied area countries, in close association with staff personnel. — - q é me
+(4) Subjects of a Personal Record Questionnaire PartI. ; a3
+_ (5) Persons on whom a Main Index search reveals information in five — : i :
+or more documents (see DOI 70-20). : ae ie
+; (6) Subjects of Interagency Source Register memoranda from LSN/ : :
+ISR (opened only by IP/RMS). : ; :
+b. Requesting a 201 File Opening - ; ia
+Headquarters desks may open a 201 file by filling out and submitting 4 a ,
+a 201 Personality File Action Request (Form 831) to the Records Main- F|:
+tenance Section (IP/RMS). Form 831 is also used to create or amend the F = a
+- - master 201 record and 201 machine. listings and to register the assign- | soe
+ment of a cryptonym to a 201 personality. Attachment 3 consists of sample a , |
+_, 202 Personality File Action Requests for opening and amending 201's. A field - 3 ee
+._ 2 “station gmay request the-opening ‘of a 20). file by writing 201- in the Head- - ~° --QY§ = 7-2 y-
+: quarters file or cross-réference box on the dispatch form and/or after’the ~~ 4 ) ee
+subject’s name in the body of the dispatch. A telepouch request for a 201 opening 38 ;
+is made by indicating 201- in the file number line. A cable request is made by a L
+placing 201- after’ the term “File” on the last line of the transmission.-IP/AN - 36 ;
+will open 201 files as requested by dispatch or telepouch but it is the résponsi- 8 8§«-§ ss?2.9
+bility of the desk to’respond to cable requests. Field stations are notified of , if :
+201 openings through receipt of the field master 201 record. = = 7° 7.77 36 i
+gigas oo Be Cg ong SSB RE SE |
+SECRET 4 |
+
+--- Page 5 ---
+14-00000
+SECRET 5 Seats =
+: . DOHB70-l-1 °° He
+a CHAPTER II, ANNEX B “ cy oe
+7 15 November 1974 Bel couse.
+4, CONTENTS OF THE DOSSIER | | BS fey
+Information about a 201 personality should be filed or cross-referenced into A a
+, __ his dossier. When additional information is discovered on a 201 subject through a SEES
+a name trace or other process, i.e, review of predecessor documents, it must Speen
+be consolidated into his personality dossier. See DOI 70-20 for consolidation . . s pene :
+procedures. =. oo see
+Material which is filed in the dossier includes but is not limited to: ~~ 4 ee
+ae . Byes
+. a, 201 Personality File Action Request (Form 831). _ S55
+b. Biographic information including photographs, fingerprints, and . Bis ee
+handwriting samples. oe q Hepereee
+7 c. Personal Record Questionnaire Parts I and I. pa SRS
+d. Operational and other security approvals, = © =~ 1 Eee
+pp ae BS
+e. Name check replies, requests, clearances, and approvals. : Picceeas
+' £. Acknowledgement of pseudonym. : ; pe FTN
+g. 201 personality assessments and evaluations. een oe
+4 : of ar ere sSet
+V ( h. Copy of contract and termination papers. . . es a MEE
+- i Secrecy agreement. Seer es
+; j. Agent Duty Status Report. : ; ees
+~k. Training and evaluation. oo i Pes
+"1, SGSWIRL report. * ~ CT | Sees
+- + *. mm, Newspaper clippings. re se Bae 3 PE Sets )
+“on, Any information which helps provide a better understanding of ‘the’. clot ft. ee
+. . subject and our interest in him; this may include operational reporting:=-2 “= -° 2 -- D712 2. * “| Ba] ~
+The 201 personality dossier contains, in document date order, papers which | Bee ,
+have been made a part of the Central Records System as well as those which ~ ee ce .
+‘have not. Record documents may range from newspaper or magazine articles | eee
+on the subject to finance and other administrative papers. . mo, 6 : gee nice
+tb eee
+
+--- Page 6 ---
+14-00000 ;
+DOHB 70-11 -{ 436
+. CHAPTER I, ANNEXB 3 oe
+os 15 November 1974 a e
+a. Purging a , 0 S : o
+Purging a 201 dossier is the responsibility of the desk officer. It requires Re PS
+discrimination in recognizing operationally useful material, rather than the Be
+simple distinction between official and unofficial papers; it will therefore take BiE.- .
+place under the supervision of a Records Officer. Purging should be done os ae ,
+periodically. A 201 dossier being forwarded to Central Files for retention should ‘a ue
+be purged. A 201 dossier should be purged of the following: ~ oe Rit
+‘ (1) Duplicate material, i.e., exact copy(s) of a document. oo, Bs 4 °
+- (2) Name trace form (Form 362) unless it has been the basis for x 2
+(3) All abstract slips. oo mie 4
+(4) All document restriction notices (Form 1884). +e oo
+(5) The disseminated version of positive intelligence information if | a
+a copy of the raw report is contained in the 201 file; the dissemination number 4 se
+then must be transferred to the first page of the raw report. . Bee
+: (6) Routing slips, routing and record sheets (Form 610) and dispatch te
+cover sheets unless there are remarks such as coordinations or comments. ©
+(7) Record copy documents which only repeat substantive information 3 -
+contained in other documents in the file; authorization for destruction is 2
+by the Records Officer. oo ae
+(8) Top Secret documents are not to be retained in-a 201 dossier : :
+forwarded to Central Files; the document must be downgraded for retention —§§ ‘4
+in the 201 dossier. To downgrade a Top Secret document, an authorized . 3a
+‘ officer in the originating office or the Records Officer having jurisdiction ae
+over the contents of the material must possess Top Secret. classification’ - tS: ne
+. authority. If the document cannot be downgraded the file should be retained |
+at the desk or the copy of the TS document should be removed, retained -- Bes. .
+in a desk TS file or forwarded to the Top Secret Control Officer, and a:--< .~-- 4g <--. 0 L"-
+_ . . @toss-reference sheet‘ (Form 867) placed in the’20] file giving the location 2)" fHR-=->-- 5”
+7 °° ofthe TS document? 4
+" (9) Deferred documents (see 5b(2)), , 3 ‘ . oF
+b. Maintenance Procedures mo .|
+(1) All material in a 201 dossier will be filed in document date order. . ; a .
+In the case of document attachments which have been classified into a 201 48 .
+- es sauces AR Fos ae a : ae “—
+SECRET x ;
+
+--- Page 7 ---
+14-00000 .
+| ; DOHB 70-1-1 - ey ae :
+CHAPTER III, ANNEX B Be .
+dossier and separated from the basic document by the assignment of a slash ES aes
+number, the attachment will be filed by the date of the basic document. Nelae.
+- (2) Deferred documents will not be filed in a 201 dossier. If they are ee
+to be retained in the dossier they should be sent to IP/RMS for classification _ oe ESS
+into that 201. . ‘ ee bes 2S
+(3) Field index cards (held by some-desks) and area desk cards may Seca
+be retained in the 201 as part of a consolidation procedure. These cards eS ee!
+should be mounted on a full-size sheet of paper for filing inthe 201.. ree
+(4) A 201 dossier previously opened on a person who becomes a staff , Peer
+J employee and which contains Record Copy documents will be restricted to ae
+the ISG/DIP unless the desk retains the restriction. The dossier should be eres
+. closed if there are no Record Copy documents in it. ae
+7 (5) A 201 opened in pseudonym should be consolidated into the true E ete
+. Mame 201 if one exists or converted to the true name. == * Be:
+_ (8) Field and duplicate (shadow)<201 files no longer of active interest ee
+should be incorporated into the official 201 after the duplicate material eel
+has been purged by the desk officer and the remaining information classified avers
+to that 201 by the Analysis Section (IP/AN). 2 oa
+(7) Any document with a predecessor organization cover sheet or an Ree
+OPC (Office of Policy Coordination) cover sheet from the Archives and Bp.
+Disposition Section (IP/ARD) must be returned to IP/ARD for processing OLE
+to the 201. . ree
+(8) Desk memoranda (with or without a document source number) . ee ;
+containing substantive or derogatory information on the subject of the 201 ~ . ee
+_ *+ should be sent to.IP/AN to be classified officially into the 201 file. = - . - - . Peete L
+a (9) An attachment which should be separated from its basic document ~ ee
+_ ..’ +, for inclusion in a-201 personality dossier will be forwarded with the basic _ , ee
+ae - document to. IP/AN for processing into: the QO, ee ee Re. ee
+(10) To retain the P&L, RYBAT, ‘or KAPOK ‘sensitivity of a document 2 =. ort we, ges 2
+remaining in a 201 dossier being retired to Central Files, place thatdocument’ == = is sR
+in an envelope sealed with black tape (see DOI 70-17). Any RYBAT, P&L, —  ”
+. or KAPOK document sent to Central Files not in a black-taped envelope will - . =) s(sst( ee
+automatically be handled as desensitized. A black-taped envelope may ‘con-**"~ =~" =. ==. -*+ Bee's
+tain only one document and must be filed in chronological order withinthe = - = s- See
+file. If there are numerous documents of this type the desk officer may black---.-..-- 2. 2 BP
+tape the entire dossier rather than individual documents (see DOI 70-10). Oo Be:
+
+--- Page 8 ---
+14-00000
+C | ( . Be
+rs - DOHB 7011 -4 4m -
+ee ee CHAPTER III, ANNEX B Be |
+Pe 15 November 1974 ae !
+7 Black-taped dossiers or dossiers with black-taped documents will be al
+. __ handled as restricted dossiers, = . . ; oe 3 :
+
+: 7 (11) An. inactive 201 dossier or an -inactive volume of a large 201 ay
+
+_ ,-dossier on. permanent charge: should be -returned to-Central Files under a Bt
+
+.,., Routing and Record Sheet with the notation shown below.. ; i . gy . oo ;
+
+" " } unctassieico oO bereoea "TP CONFIDENTIAL | a secrecy Z Z :
+a
+a |
+
+| Poff | Volume(s) $s of voolue(s) a: . |
+
+sae ae =, ALL documenta prior to : oa . - - ws - an .
+
+Se (ie cme ccna na Poet be | eae
+de | S)
+me ek | Ge) sent - CO) conrimema, 0 Bay Conca © - f° SG ne
+
+. . _ on “: “0 ce 264- cee "a ae 4 =~ aed ae i EG: |
+
+SECRET x |
+
+--- Page 9 ---
+14-00000
+| Dtienes “2 OL
+. ee ve
+; ¢ Ose 2 5h
+. - Se ties
+se . a SRO ens
+oe! CHAPTER III, ANNEX B Hess 2
+. 15 November: 1974 ee
+beds
+A 201 dossier may be kept on permanent charge at the desk during any batees
+period of active interest. If the dossier is transferred to another desk, the desk peo
+officer who is transferring the dossier must notify Central Files of the transfer. —_- — BAP eee
+Central Files will then send the Notice of Transfer of Document or File Account- —_- FS ene ,
+ability (Form 2977) to the new action desk officer. - cee
+fees parede aeey
+NOTICE OF TRANSFER OF DOCUMENT OR FILE ACCOUNTABILITY . eet
+Tnis is to notify you that accountability for the document(s) and file ee oases
+delow has been transferred to you by: . ( for (s) sites Saeeenese
+. Borge OE NESTS
+Accordingly, IP's records now reflect you as the custodian. Please contact IP/Files, PSs
+Ext. 4362, if you have any questions regarding this transfer. . , SESS
+Cepia Ach onl
+Y rt yt US
+FOAM 9977 use Pocvseus couveons . Bee
+173 CONFIDENTIAL ‘ Ree tea
+; Pees
+The new action desk officer must then fill out a 201 Personality File Action . . ee
+Request (Form 813) to change the action desk designation to insure that the - -. ss) Eee
+' 201 personality will be included in the Headquarters and field machine'listings .... 2. >.-. - 9. +: Bo
+’ , for his component. © = 0 Fe, a Bo
+a. Access to a sensitive 201 dossier may be restricted by holding the file atthe vy . ee
+desk or placing it on restriction in Central Files. — Boe oak
+(1) The dossier may be restricted by checking-Box-2 on the 20] Eee
+Personality File Action Request (Form 831) when the file is opened. : Wee
+§-. Soe eatase
+
+--- Page 10 ---
+14-00000
+; . . .
+| DOHB 70-1-1 ‘ae
+. : CHAPTER II, ANNEXB -4 “Agg
+15 November 1974 ey
+. . .(2) The dossier may be restricted by holding it on permanent charge ‘epee :
+from Central Files. (Note: To maintain the restriction of a dossier being ee ;
+. retumed to Central Files for retention, a File Restriction Notice (Form == 7343388
+2021) must accompany the dossier.) , oo oo ae !
+(3) The dossier may be restricted and held in Central Files by sub- aes
+‘ mitting a File Restriction Notice (Form 2021), = I epee
+; - CONFIDENTIAL a fiat
+C¥hen Pilled fay “wa ere te oy :
+TP/Dcu +e ees
+‘| actzot DESK: 1. To restrict a file, complete Section A (signature of R.O. not . ae :
+pecessary). . oo. a Saas ;
+2. To remove a restriction, couplete Section B (R.O. signature ee te :
+RESTRICT TO: (Use country or noa-country code number. See CSI 70-28) , z aan
+, RESTRICTED BY: . eee
+REMOVE RESTRICTION (AUTHORIZXD BY) CRO Nw ee
+COMPOSENT: Date: pets
+See gogy seherasstet CONFIDENTIAL te ; Be
+7 .. b. Access to a restricted dossier located in Central Files is limited to the - “S25 mo
+. personnel of the restricting desk or persons authorized by that desk. Any request Pa wy ;
+:,., for the charge of a restricted dossier or any document within.a restricted dossier | =>, ty-ae - 0. |
+_'°" . held in’ Central Files will be forwarded with tre: éntire dossier and a multiple. ~. Riser}. Tete
+routed cover sheet to the restricting desk. This desk may then forward the file “REF
+to the requester or-deny the request and return the dossier to Central Files, The - Beet 3 - ote
+desk will notify the requester of a denial. . eS —; ae
+c. Anyone requesting a restricted dossier, or a document within 4 restricted ~~ oe +:
+dossier, .permanently or temporarily charged to'a desk, will be referred to that - met ere oe
+desk by Central Files, . , moll. Dr o2 a8 ae To...
+- - 26.8. REL SR
+SECRET Kec ,
+
+--- Page 11 ---
+14-00000
+; DOHB 70-}-1 a4 Berges
+CHAPTER Ill, ANNEX B Rees
+15 November 1974 ee ne
+8. REQUESTS FOR INFORMATION ON’ 201 PERSONALITIES ak eB
+; «Ee
+The Automated Index Section (IP/AIS) will provide the identity of the Bathe
+subject of a 201 number unless the 201 file is restricted, in which case the . aa Bee
+requester will be referred to the restricting desk. oe St sets
+IP/AIS will also provide the 201 number assigned to a name, unless the 201. es eee
+file is restricted, or state that there is no 201 number assigned. Requesters should © ~~ aa Se
+. supply identifying information whenever available for each name submitted. . . ree
+; ‘Requests pertaining to five or fewer names or numbers may be made by et
+telephone by calling the IP/AIS red line extension; IP/AIS will provide the aN EAE
+information by return call to the requester’s extension as listed in the Badge . Fe eee
+Table. Requests for more than five names or numbers must be listed and sent BES in
+by tube or courier to IP/AIS; IP/AIS will reply by return mail. oo . ta
+9.201 DOSSIER CANCELLATION t«i; , ee
+A 201 file may be authorized for cancellation by a Records Officer, after . Ree
+appropriate coordination. The file should be forwarded to IP/RMS which will Ress
+7. destroy the folder and the cards leading to it and will remove the name and Paaaeeees
+. number from machine lists. Any Record Copy document contained in the folder RCSA
+will be reclassified to'another appropriate file or sent to the Destruction Unit vee
+(IP/DU) as directed by the desk Records Officer. aera
+10. 201 MACHINE LISTINGS — sc ee
+Machine listings provide field stations and Headquarters desks with names Bee
+and 201 numbers in the requester’s particular geographic or functional area of erent
+interest. If a component wishes to exclude a sensitive 201 personality from.its . Sa
+‘y alphabetic, numeric, and cryptonym listings, this may be done when opening -°. - = || ee
+the 201 or later by a 201 amendment. On the 201 Personality File Action Request __ RE
+, (Form 831) leave the country of location (Box 15) and interest desk (Box 16) - -- = —-—i(ittiédig
+_ 7 sblank, ‘ts¢’the nox-country code 900 ‘fn. the action box (Box-14), arid indicate “2 722° 5s. "|e.
+"+ permanent charge to the responsible desk: The only listing which will include the-:= 9 =) Ree
+_ 201 number is the IP/201 record for the Vital Records program. 20] listings are = ss st,
+categorized as standard or nonstandard and as scheduled or special © - - - 9... ees.
+a. Standard Listings 9 «os ee et oe ee eget cen Oe, Be,
+Issued semi-annually to Headquarters ‘and the field; based on acomponent’s os 0 st. gee
+interest as indicated in the “Action Desk,” “Country of Location,” and “Interest = pieces ;
+
+--- Page 12 ---
+° . . . ’ .
+eo . ; , C »
+‘ ‘ . f . .
+~ Nhe ee,
+ep a
+wet DOHB 70-1-1 a ee
+a CHAPTER III, ANNEXB , “SM
+: elo ret ; 15 November 1974 een §
+.% Y
+- los Ge :
+. Desk” blocks on the 201: Personality File Action Request (Form 831).° The Reeds
+standard listings available are: 1 Loe re noe at A tot
+(1) Alphabetical by surname, leading to a 201 number; "+ Eg
+. ° ° , . ° * we a ae : = a ;
+(2) Alphabetical by given name, leading to a 201 number; wet .<:) 2
+Co (3) Alphabetical by eryptonym, leading to a 201 number; a Ba :
+- (4) Numerical, leading to a surname; oo ot lee tes. 2 on . :
+. ~, (5) Numerical, leading to a cryptonym. eo ert ae ;
+Ful a CHINA SECRET/ORGANIZATION INTERNAL USE ONLY Tee te
+201 SURNAME ALPHA LIST 2 2
+CT RE OSC UATE SSS SOI Oma ee tae re Cabs = é
+Ertt, SHA Te 7T11570343750307 PTIULI4 — CHIMSRWAXGTUNG ee eet 0165408 | eee <1. mn 3 2 oe
+CHEM, SHOUT £720571343700017 mo, : : or gzreese CHIN CHIN, Lh
+Cle, SHOU ft. STALS/EROS/O00L/ A 24 NUNES ; 10653 tte 54
+Chit, SHCU-SFY ZO77A7119870098 | 90°: CHIN, AsO¥ . BUSP CCOM? 0943751 CHIN HK cH
+Cues, SHU Met : /  QAUANLD «CHIN, FUXICN. PROV. CHIN? 0234629 - ete cuss ed :
+CHE, SHENG 1710971399/890 “2UNCTOR © CiTN, PANCINIP LA, PCRT ALIN . CHAT 0179820 Cute Cape id
+Chor, SHOU SHIM SPLES/ILOS/00L =A «22xOV22 CHIN, HUNAN CHat = 0a69786 cute 23s :
+CHEK, SetCU-TAD , . fenanaS © Cnty ; “pIPT Cent aNgsseg CHI sur =
+CHEW, SMOMM= TSENG SPLIS/ILONSL cal + Cetin, CANTON EXGR CHAT = Oni7ES$ . Culk Hx 22 .
+CHK, SHC TZE SOTOL/1343/2007 0258928 «CHEM, LEACAIEC OAD CHIN? 0130415 Cute tate Bs +
+CHEN, SrmI—vet /TALSZELONS ESS (225aN18 | CHIN, FOURIER CCCP? 0091493 - Gate 33
+Crem, Sepevt 2 OFUN99 «= CMe CANT PROF CHIN? 0040289 . CHIM usa % a
+Cult, Seesae A LSNECLO —CHINe BRALGTNG PREY Cas? 0052638 Cute beat ‘eS :
+Cult, Somteendy £7415/2495/6930 -  @24UL30 CHIN, KWANGIUNG PROV. atny CHat 0328328 cute Talw 338 :
+Cees 5 Sey Cowen FTEESIZIEZLZ2 | CHIN, FAN TANG TS CHIN? alzsasn tie im 2. .
+Corby, Seey-Cetyae 70457299572 xovi0 tan ° . TS€a Cuar 0797335 SCHEIN box , E: .
+CuCd. Siu forse FTINSI2ONS/279T «= CRCAZ.. CHIN. DE IRIU CHIN? 0209223 CHEN az &
+Chen, Seu FEM -- “R sot O4AAS77 cuin ern 2 ES
+Coby Sor Ae SPRASLZAAS/ INES? OAJULLS «= CHIN, RAAKGTUNG CHiv? atreazt CHEN CHK 34 & ;
+Cote, SF WSEAS PTUNSL297SS 8 19 CHIn, FURIER CHIR? 0044799 cnn +
+Cele, SI USTUHS SPLESSZAAS/T ., 2IPEROT «Cue LHANGTUNG . COO"? 0993195 GHIA aa ie ;
+Germ, Soy msee Z7285/209570133 * OSsavie §«CHIN,FOCCHCH CHIN? §«O179422 : Cute cute eg
+CHE es SHU . - 30MAR26 ce . . OleT cCCM. o22316t CHIn cey - an Be :
+CHENS Simtel LTUESZZ9ES790NOF A ELBLO CHIN, HOFER - OPT Chat. ge301868 =’ Sante Use =e ;
+Corm, $9 ROLE S7TES/2E9972710 2™mMOVZS «CNTR. FANG CueENG PROP CHIN? 9179623 - GaIm cHte Bae ;
+ath, Set Lan . ® Cnin coe * CCOM 0221972 os" Gate Cita ” “3S ee
+Cone, Ger Liaise 77109709477009 Cincrt | Cute a _ OPP CHiN? 0229262 7 Otte ety ie
+Cate, Sie CE ZTILS/25797265 UF 2SnW20- CHIN FERCSHUN | cutn? §O17T9e2s cutn tare ts I ,
+CHIEN SomteL tes £7102728737010 Otsue2s «CHIN, wtANssu MILA €CO%. ongasaa - CHin tacs | “ee Re 4
+Ci, SHIRES “ @-  2088820°- CHER, HSCAT-MSLEM, RLANCSU CuaT ooester~ > tate usa Se
+Cure, Sy Mr /TERS/2005/05897 — 1S0°R30. CHENLCHENCHAL. -- CHAO CHIN? 01706273 - -~--. Gun’ cue ~ “SRR OT 7s
+Cet, SHtl-P sy S7LLSZ2579/02027 - RSOECIS ° CHihe CHANGING PREV. : +. (nat? 0092638 - - "Gee weal "3B |
+CHEN, SHUSSER STUUS/20°9/2773/ A B0DEEZS CHEN, RWARC TUNG .. CHIN? COBSILS cin tate - skeet H
+CHORD, Sreseseeay S7R05/29790098" 2750425) Cha, FUXTEN PSoY CuIn? 0103289, - | Oks ote. - . . {
+CHEM, SHU=TE STILS/ZA2S717097 2UDECAT" CHEM, SmawrAT =| | GEOL CHIN? 0782816". + tate puta. - Te ne oe
+Chen, SHU DEM 7NIS7 ¥ -2THA320 0 CHlte CHANG Si “ gotsest 2 7 = oate RB
+Cotas Sint CG 2157088776699 || CUSCIS.- . CHEM HANG CHa Lt elie 0183929 8 o's tte Cente o- R -
+CHEM, Guts 120 STLESSZAASIZTSIF - _QRMARUR CHEM: -- Le 2 BEN COON -ONBTASZ <7 °-: 2. - Gite “UR” Tt on -), se .
+Kiet, St TEE ATUS/OGSIFOIITS «RL ORFEROR ~ wD onsagae FS oa RB
+CWER, Sevevas STEISIZEIS/1034 " PINGWOS > CHIN, KeAnGTiNG = Teeny ogezrag ST cae RRR
+CUTE, SHOT EN VW -OSAPREZ - CHENPEICING = CNin? olo7304 CHIN Gute qa SE as
+Clee Sea? VE STLLS7289S 79907 ASsUNCG «= CHIN, FARG Cris Kw Guin? GCl7eezy =. Otte cu. | tRS
+Cit eg SIMAVED FTULS 22579708087 GOCTIO CHI. HERG TANG HSLEN, HN ARMY CHAT © 0349828 Gate Tage ta & . I
+Lote, Gniery UTEFRIS «= Ceedm. Crite [An int cane oatstate Cute pene Ee &
+Peete, Seeoves 21aPP 24 CHUMe WHA NIAL ‘Chin? enesoia. lw . Cris Jee :
+Codes, Sous 8 STLLSSIS ICS SAAZZ v OASeP2e = CHEN, SLC Cray | . _tuin? olserse ae Cuts tae | 2B :
+J . . _—— : a ee
+: . || SUCRE TFORGARI LATION INTERNAL USE ONLY sae “Loe, Pace 30-0 i - - .
++ GL Eeoner ca cy oseers |. an : TONS. Tate Soc. “SEB . :
+ig .
+. 3a .
+cy.
+
+--- Page 13 ---
+14-00000
+. a 6 ®
+LO . 4 c : :
+BM EX Gola ta
+ole HES CHAPTER Il, ANNEX B Set Beene
+re 15 November 1974 4 aes
+All standard. listings are cumulative; previous editions must..be destroyed wt Senlenaee
+upon receipt of current editions. These listings are by their very nature extremely 23 Sree
+. “Paes ‘ ° * : ’ 0. Pier SRS re ae
+sensitive compilations of information and must be given every possible safeguard. . og re aeae res
+. eae : ° . CD eee Oth Aina tet
+b. Non-Standard Listings .. a su SS
+Based on one or more of the following selection criteria: . ae CaS
+- (1) Country of location Do | oe, ; SS Tee
+(2) OI codes (organization and/or intelligence affiliation)” ; Re eee ae
+(3) Citizenship Fo ee _ | gees
+(4) Year of birth (plus or minus a given number of years) Re oe ee
+(5) Occupation. Ce ge 4 Looe. Lo. . a eee
+These selection criteria may be used singly or in combinations. For example, Rots fia ees
+Py . eae ~ . we . oe ry er ae p oe a
+a user could obtain a list of all 201 personalities who have been assigned the 1 SER repay
+Ol code of XX or codes of XX, XY, or XZ. ‘A 201 personality list could also be ue Se: Eee
+produced of all persons who were born in Germany between the years 1915 ee Ee Sees
+° , ry : 2%: oye . 1 Eee as
+and.1920, with the occupation.computer ‘specialist, who are now citizens of the ..... - ia. ae
+United States, located in Mexico, and who had been assigned the OI code AA. . © Pe ee
+Note however that the listing would contain only those personalities with an =i; - | eae RRLA GT]
+OI code AA. Those personalities with an OI code other. than AA and those . , eee
+. . 8 ee eR Gs
+with no OI code would be excluded. The requester could however ask that : Pee wieitog rete
+: . Fee EG a
+persons who have not been assigned an OI code also be included. Note also CO, He eral ent
+that when retrieving lists based on occupation, the listing will be only as specific © - . - Besa Ge Pee
+: oe ° . . * : ere ON Lee
+as the occupation code (Attachment 1). The’ occupation code for a courier . oh | eee
+covers only a documented courier. Some ‘occupation codes cover moré than one” ~ Be SRE Tea
+occupation. For example, the occupation code CRAF covers those who practice = - Me Bee
+some trade or manual occupation, i.e., carpenters; bricklayers, painters, mechanics - | Eee aera ea
+and electricians. If a list is requested for eléctricians, all others in this category. 0 * 8, een eke
+will be included in -the printout. These non-standard Jistings-may be sorted-. -.--. “: - | ERegeemeveeres
+(arranged) according to any, but not more than three, of the following keywords: - =~ > «| sSiegrepeetagearetts
+oe, (a) Surname 2-00 el te a See eee gE aS ago Se
+“(b) Giver names 0 Te a ae oS
+_ ov (0) Datevof birth "ft tp beet ae oor ene gts <n, wane
+- + *(d) Country of birth ares nes Fo
+“oo (f) OD code re mre har Sg aR Se So eee
+_ (g) Location Lo, o. . pce SRS Syst
+
+--- Page 14 ---
+14-00000
+. * ‘ 3 .
+; _ DOHB 70-1-1 4A
+: CHAPTER Ill, ANNEXB =~ “SH. |
+15 November 1974 | 3 2 |
+<8
+*Sorts'can be made within ‘sorts. For example, 201 personalities may be sorted - 4 : ° .- _" a |
+' * alphabetically by surname within OJ codes for given- countries of location.: - - 9: re
+Because two OI codes may be listed: for each personality, those names with two oss .. oy
+OI codes would be listed twice. ee Se. .
+- @. Scheduled ‘Listings oo a ve Ba 4 7
+, _ Standard and non-standard listings printed semiannually. . xin oo
+. d. Special Listings ) oe | _ g ? _
+- Unscheduled, usually non-standard, listings produced on a one time basis a °
+in response to special operational requirements. ae ,
+. e. Request for Listings : _ 3 : OG
+All requests for standard or non-standard alphabetical and numerical 201° s : ;
+listings for Headquarters and the field, for changes in periodic listings, and for % _ a
+information on the 201 machine list system should be made to the component =: ——
+Records Management Officer. ; | 4g 7
+: ee | en
+Se a ee 9810 ait, ETS rede Bcf -
+: _ SECRET f
+
+--- Page 15 ---
+14-00000 - .
+| ‘DOHB 70-1-1 ES ete
+CHAPTER III, ANNEX B P| Se
+Attachment 2 ieee aks =
+. cane. 15 November 1974 ve eaeeeure eye
+AUTOMATIC 201 DOSSIER OPENINGS } . a
+Note: 201 files will be opened automatically by IP/AN on the following cate. — - Hess
+gories of people. a - = wu Bee
+1. arab Republic of Egypt (ARE)| oo 4 ' BeOS
+a. Diplomats with rank of third secretary or above. bos
+b. Military attaches and assistant military attaches. Ik ee
+ce. Intelligence officers of the General Intelligence Department (GID)... fee
+(Prior to opening of an pAkigjoo file, check with E/E |for correct spelling fee ee
+of name and additional biographic data. ) [es See
+2. [British Commonwealth | ~ A “x y tH : . lee
+a. All positively identified members a gensiits] the British jintelligence Bee
+Services. . SS
+b. All positively identified members of the) Irish] Military Intelligence Service Bete SS
+c. Ganndiag Communist Party officials on national or provincial levels and a
+officials of the Carladian| Communist Party front organizations. Do not open HES ese
+unless there is at least a date of birth given. oF . Sees
+d. All members of the Security Service of the [Royal Canadian Mounted oe
+Police (RCMP-SS),| CO te ol. - Heese
+a. Allfigraelf)diplomats,[C/NE/ISK] should be indicated as the originating __ eee
+office with CI/SP always indicated as the secondary office of interest. 8-0: ss
+| © Assistant military attaches. TE ete, Fe
+a Identified intelligonce officers. <1. . | .: ol a
+SECRET : iE ee
+. \ aN
+
+--- Page 16 ---
+14-00000
+. ; a * . ,
+. . ou > ‘
+ao - t , , :
+ee DOHB 70-1-1 -“ E 2 oe
+. . : ‘CHAPTER II, ANNEX BEG
+| Attachment 2 4 i
+; 15 November 1974 8
+5. North Vietnam... .. ST Hos . De ig ‘
+All diplomats and NFLSV (PRG) officials stationed abroad. | oo s _
+. BUSRO ; =)
+a. All Soviets assigned PCS to an official representational installation, fe. --".; e 2 ee
+embassy, consulate, commercial representation, national airline (Aeroflot) | "-aae § -
+_ Office, news media office. . mo Loos eae ,
+_-  b, All Soviets assigned PCS to the United Nations in New York, Paris, Geneva, 3 :
+and Vienna. ; . eed: §
+. c. Audio technicians, after coordination with SE desk concerned. - BEE 2 -
+; — d. Students who will be studying abroad for a full academic year at institutions . “3 3 ° )
+of higher learning. ; a .
+owe : : .  .  c 7 tn ee ee steric ‘@ene, , oe / wal
+me SG Eat ae RR | 7
+oo SECRET “ef
+
+--- Page 17 ---
+14-00000 ,
+— _ SECRET .
+~ ‘ go-I-1
+~ Dole Greelind.” CSHB 40-4-+
+a ASHTOS TD _ CHAPTER TT |
+Oo CLANDESTINE SERVICES os vt
+-HANDBOOK NO. 43~-k=1 . 15 February 1960
+_ - ;-44;.1..A relatively small proportion of the total number of/personali-
+_ ties indexed by the CS are of active operational interes{at any given
+point in time. These are normally subjects of extensive reporting and .
+CI investigation, prospective agents and sources, aiid members of
+' groups and organizations of continuing target interest. Each of these
+_. personalities is assigned either a 201 number gr an IDN number.
+. ~.. 2. , The 201 number serves a-dual pur ogee. It brings the files on |
+these personalities into the CS records system. A single number, .
+e.g., 201-123456, is assigned to each person, and a dossier controlled —
+°° by this number is established which fontains, or has cross referenced :
+. to it, all of the reporting on the individual’s personal history, current
+) . .status-and prospects. Once the 201 number is assigned, itisusedin |
+"°°", futyre reporting on the individval both as a file number and in place of
+— other identifying data. Up-to-date machine listings are published . . |
+periodically to help field syations and headquarters desks keep book i;
+on those 201 personalities falling in their particular geographic or «> = |
+- ~functional area of inter#st.. ~ ei
+rv ' elude the identities of persons of operational interest because of their —
+. connection with ¢ target group or organization even though there may _—_.
+not be sufficiext information or specific interest to warrant opening
+i. a file. For gkample: A considerable number of stations are concerned
+.. with the activities of Cuban exiles. Coverage of their movements,:~ =i. .
++: factions phd objectives can be assisted by furnishing all participating
+-, -  Stations/up-to-date listings containing information under the control,
+| re “Gfise Ag: GENE
+- | | ) ST
+SECRET wack 7-1! ds
+| ye » Dad bre
+
+--- Page 18 ---
+14-00000 ;
+_ - ee) , |
+se ( SECRET ( | .
+. 7 | - oy , Fb-+t-} ~}
+are CSHB4st4 0. ~
+a CHAPTER Il, ANNEX B
+‘CLANDESTINE SERVICES ; ORY ; _
+: HANDBOOK NO. 43-t-fr . 15 February 1960
+of the Cuban desk on the dramatis personae. In addition to 201 per-
+. gsonalitiés, such lists Should contain the names and identifying data. |...
+of persons who should be kept track of, athoug they may only be of Lo .
+__ tangential interest or on whom there may be Jittle or no data other i.
+than that given in the listing itself- : 0 |
+4. To accommodate this type of requi ement in the 201 system, , .
+identifiable personalities concerning whgym enough information is not an
+yet available to require the opening of d file may be assigned numbers - |
+'-of the following type but in the same series: . ) OF , a
+a IDN-163457 re ee
+.) These are relabeled “201” if a file is opened. IDN numbers are car- _
+- ried with 201 numbers in appropriate general or special listings, ee
+where they are identified by tHe letter “I” in the “Type of Name” col- a
+‘umn. IDN numbers are not @S file numbers. : RS
+'§. All 201 code numbers are assigned by RID at headquarters, - ,
+_ . either upon receipt of Form 831, or of a field dispatch. If a dispatch :
+is written about a personality not yet in the system, a 201 number for a
+; it may be requested Simply by writing under headquarters file number i .
+in the dispatch foryi as follows: oT! ‘
+. Of "Dispatch SymbolandNo. °-) 2 0.
+(fos fs gy + Headquarters FileNo.; -:0 0 7 5s |
+we RT MAD SS ge BON te Noy oe a }
+vo “6. IDN numbers are assigned by RID at headquarters upon the - - 7 . _
+request of stations or desks which are developing special identification . —~
+programs within the 201 system. The field receives current notifica~-..
+tion of new 201 openings and IDN numbers through the Field Index Card... ©
+
+--- Page 19 ---
+14-00000
+oe : . «>
+an SECRET
+an C.  ¢ - |
+. ome CSHB 43+4-t .—-
+; . CHAPTER Il, ANNEX B ;
+. CLANDESTINE SERVICES \ 2 |
+. HANDBOOK NO. 43-4-4- 15 February 19 |
+1 "4, Stations or branches often are concerned with pepéonalities -
++ not of general CS concern. Files on these may be kept in any desired mS
+- order. Should such personalities become of genergf CS interest, a .
+they must be brought into the 201 system. °. - us
+|
+|
+, |
