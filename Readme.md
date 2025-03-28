@@ -10,7 +10,7 @@ This repo also contains a useful string search tool that can scan all .txt files
 This repo contains the following sub-folders
 
 ### 1. ZippedPackages
-This folder contains the full set of 2343 .txt files, distributed over for .zip files.  Download these zip files and unzip in your desired directory.
+This folder contains the full set of 2343 .txt files, distributed over four .zip files.  Download these zip files and unzip in your desired directory.
 
 ### 2. StringSearchTool
 This is a simple tool (available as standalone .exe and .py (python script)) which performs a string search over an arbitrary number of .txt files in a directory. It will also scan for .txt files in sub-directories. As noted, this initial version of the tool is very simple.  It will only return the file name of one or more files where the string was found. 
