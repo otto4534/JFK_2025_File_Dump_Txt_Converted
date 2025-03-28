@@ -25,7 +25,8 @@ The following Python modules are required to run the script:
 5. ### os (Built-in Python module)
    Provides directory and file manipulation functions.
    No installation required; part of the Python standard library.
-
+   
+---
 ## Installing Tesseract OCR
 To use pytesseract, you need to install Tesseract OCR software on your system. Follow the instructions below:
  ### Windows:
@@ -39,7 +40,8 @@ To use pytesseract, you need to install Tesseract OCR software on your system. F
  ### Linux:
   Install via package manager (e.g., apt):
   sudo apt install tesseract-ocr
-
+  
+---
 ## Configuration
 The script uses a custom configuration for Tesseract OCR:
 --oem 1 --psm 6
@@ -53,4 +55,3 @@ Ensure Tesseract supports the selected mode (PSM = Page Segmentation Mode).
 
 Python Version
 This script requires Python 3.x. It is recommended to use the latest stable version of Python.
-"""
