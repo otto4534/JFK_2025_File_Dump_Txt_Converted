@@ -3,8 +3,9 @@
 ---
 
 ## Overview
-I ran the full set of 2343 pdf documents from https://www.archives.gov/research/jfk/release-2025  to text files through a text extraction algorithm. I'm familiar with Python but was able to make good use of the Copilot AI to greatly speed up the process of putting this script together.  Results vary a bit.  Some PDFs are fairly washed out, resulting in largely garbled text output. But in general, if the doc was decently human readable, it converts OK.  This repo contains the converted .txt files. ***Note the file names exactly match the name of the associated .pdf file, making it possible to cross reference with the original.***
+I ran the full set of 2343 pdf documents from https://www.archives.gov/research/jfk/release-2025  to text files through a text extraction algorithm. My intention was to make this document set text-searchable. I'm familiar with Python but was able to make good use of the Copilot AI to greatly speed up the process of putting this script together.  Results vary a bit.  Some PDFs are fairly washed out, resulting in largely garbled text output. But in general, if the doc was decently human readable, it converts OK.  This repo contains the converted .txt files. ***Note: the file names exactly match the name of the associated .pdf file, making it possible to cross reference with the original.***
 This repo also contains a useful string search tool that can scan all .txt files for a given string, as well as the original script used to perform the text extraction.
+***Note: the extracted text can at times present miss-spellings of the original text, therefore any text search results should not be used to infer the non-existence of a given search phrase.***
 
 ## Repo Map
 This repo contains the following sub-folders
