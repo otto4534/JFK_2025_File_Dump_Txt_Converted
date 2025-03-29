@@ -11,10 +11,11 @@ This folder contains 2 files. If you don't feel comfortable running the `.exe`, 
    Provides a simplistic tool for scanning a set of text files for a specific string.
 
 ---
-<video width="640" height="360" controls>
-  <source src="https://github.com/otto4534/JFK_2025_File_Dump_Txt_Converted/blob/main/mdSupport/Recording%202025-03-28%20205602.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+https://github.com/user-attachments/assets/be60e344-13ef-4a2e-acaf-ae08d98a665d
+
 
 ---
 
