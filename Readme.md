@@ -18,3 +18,6 @@ This is a simple tool (available as standalone .exe and .py (python script)) whi
 
 ### 3. PDF_Text_Extraction_Tool
 This folder contains the script used to perform the text extraction from the original .pdf files as well as some instruction on installing the necessary dependencies. 
+
+### 4. mdSupport
+This folder contains files used to aid in clear documentation via the various markdown files in this repo.
